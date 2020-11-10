@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CRZAimbot", "CRZAimbot\CRZAimbot.vcxproj", "{4F591BCC-3E2D-4D50-9A74-3C0D162A939D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Production|x64 = Production|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F591BCC-3E2D-4D50-9A74-3C0D162A939D}.Debug|x64.ActiveCfg = Debug|x64
+		{4F591BCC-3E2D-4D50-9A74-3C0D162A939D}.Debug|x64.Build.0 = Debug|x64
+		{4F591BCC-3E2D-4D50-9A74-3C0D162A939D}.Production|x64.ActiveCfg = Production|x64
+		{4F591BCC-3E2D-4D50-9A74-3C0D162A939D}.Production|x64.Build.0 = Production|x64
+		{4F591BCC-3E2D-4D50-9A74-3C0D162A939D}.Release|x64.ActiveCfg = Release|x64
+		{4F591BCC-3E2D-4D50-9A74-3C0D162A939D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2827BCB3-AB5D-498C-BCCE-8367E670B9D8}
+	EndGlobalSection
+EndGlobal
